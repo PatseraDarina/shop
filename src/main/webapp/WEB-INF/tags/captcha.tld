@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Captcha TLD</short-name>
+
+    <tag>
+        <name>InsertCaptcha</name>
+        <tag-class>com.epam.preprod.patsera.shop.web.tag.InsertCaptchaTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
